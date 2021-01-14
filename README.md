@@ -9,6 +9,11 @@ simple online judge
 6. You can check soj/urls.py for routes, soj/oj/views.py for HTTP handlers.(This is not a command!)
 7. python3 manage.py runserver 0.0.0.0:8080
 8. You can use postman to test api.(This is not a command!)
+## features
+1. support C/C++, Java and Python3.
+2. RESTful.
+3. Very simple.
+4. Secured.
 ## project structure
 1. code: user upload directory.
 2. sample: problem sample directory.
