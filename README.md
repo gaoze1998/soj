@@ -9,6 +9,7 @@ simple online judge
 6. You can check soj/urls.py for routes, soj/oj/views.py for HTTP handlers.(This is not a command!)
 7. python3 manage.py runserver 0.0.0.0:8080
 8. You can use postman to test api.(This is not a command!)
+9. Browse http://localhost:8080/admin to modeify your database.(This is not a command!)
 ## features
 1. support C/C++, Java and Python3.
 2. RESTful.
